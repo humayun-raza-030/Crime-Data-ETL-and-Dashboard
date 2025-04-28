@@ -15,7 +15,7 @@ Chicago-Crime-Dashboard/
 ├── crimes_cleaned.db                 # SQLite database
 ├── app.py                            # Streamlit dashboard source code
 ├── README.md                         # Project documentation
-├── Data                              # Data
+├── Data Chicago Crime                # Dataset 2011-2017
 └── requirements.txt                  # Required Python packages
 ```
 
@@ -140,7 +140,7 @@ The Streamlit dashboard provides a detailed exploration of Chicago crime data.
 
 3. **Install dependencies**:
    ```bash
-   pip install -r requirements.txt
+   pip freeze > requirements.txt
    ```
 
 4. **Run the Streamlit app**:
