@@ -11,7 +11,7 @@ Chicago-Crime-Dashboard/
 │
 ├── ETL_Script.py                     # ETL and Feature Engineering automation
 ├── Crime data ETL.ipynb              # Data cleaning & ETL
-├── app.py                            # Streamlit dashboard source code
+├── Dashboard.py                      # Streamlit dashboard source code
 ├── README.md                         # Project documentation
 └── requirements.txt                  # Required Python packages
 ```
@@ -142,7 +142,7 @@ The Streamlit dashboard provides a detailed exploration of Chicago crime data.
 
 4. **Run the Streamlit app**:
    ```bash
-   streamlit run app.py
+   streamlit run Dashboard.py
    ```
 
 ---
