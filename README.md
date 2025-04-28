@@ -11,11 +11,8 @@ Chicago-Crime-Dashboard/
 │
 ├── ETL_Script.py                     # ETL and Feature Engineering automation
 ├── Crime data ETL.ipynb              # Data cleaning & ETL
-├── Cleaned_Crimes_in_Chicago.csv     # Processed and cleaned dataset
-├── crimes_cleaned.db                 # SQLite database
 ├── app.py                            # Streamlit dashboard source code
 ├── README.md                         # Project documentation
-├── Data Chicago Crime                # Dataset 2011-2017
 └── requirements.txt                  # Required Python packages
 ```
 
@@ -128,7 +125,7 @@ The Streamlit dashboard provides a detailed exploration of Chicago crime data.
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/Chicago-Crime-Dashboard.git
+   git clone https://github.com/humayun-raza-030/Chicago-Crime-Dashboard.git
    cd Chicago-Crime-Dashboard
    ```
 
